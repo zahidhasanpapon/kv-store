@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+ehthumbs.db
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
